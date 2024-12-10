@@ -11,7 +11,7 @@ src
 ├── repositories    # 실제 DB와 상호작용하는 레이어
 │
 ├── services        # 비즈니스 로직 및 도메인 서비스
-│   └── routers     # API 라우터
+├── routers      `  # API 라우터
 │
 └── schemas         # 데이터 검증 및 API 입력/출력 스키마
 ```
