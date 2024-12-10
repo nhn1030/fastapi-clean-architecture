@@ -14,6 +14,7 @@ src
 ├── routers      `  # API 라우터
 │
 └── schemas         # 데이터 검증 및 API 입력/출력 스키마
+
 ```
 
 ---
